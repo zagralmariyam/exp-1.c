@@ -1,5 +1,10 @@
 #include <stdio.h>
 int main() {
+    /*Name: Mariyam Zagral
+     age: 18
+     Class: FE (COMPUTER ENGG)
+     Batch: D
+     UIN: 251P084*/
     int start ,end;
     int sum = 0;
 
